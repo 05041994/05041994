@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gabriel
+- 👋 Hi, I’m @Gabriel
 - 👀 I’m interested in learning to program better and also have more motivation.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate in future projects and mission.
